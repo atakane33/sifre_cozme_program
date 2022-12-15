@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\obj\Debug\Şifre Çözme Programı.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\obj\Debug\Şifre Çözme Programı.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\bin\Debug\Şifre Çözme Programı.exe.config
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\bin\Debug\Şifre Çözme Programı.exe
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\bin\Debug\Şifre Çözme Programı.pdb
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\obj\Debug\Şifre Çözme Programı.exe
+C:\Users\hp\source\repos\Şifre Çözme Programı\Şifre Çözme Programı\obj\Debug\Şifre Çözme Programı.pdb

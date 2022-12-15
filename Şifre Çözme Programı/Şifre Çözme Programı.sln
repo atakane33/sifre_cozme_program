@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Şifre Çözme Programı", "Şifre Çözme Programı\Şifre Çözme Programı.csproj", "{FBE7ACF4-9FE9-473D-9436-8A88705BE0BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE7ACF4-9FE9-473D-9436-8A88705BE0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE7ACF4-9FE9-473D-9436-8A88705BE0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE7ACF4-9FE9-473D-9436-8A88705BE0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE7ACF4-9FE9-473D-9436-8A88705BE0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E37DC3-5DD4-4C3C-98C2-8CFE89139273}
+	EndGlobalSection
+EndGlobal
